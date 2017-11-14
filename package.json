@@ -1,0 +1,42 @@
+{
+  "name": "@tencent/reco-bin",
+  "version": "0.0.1",
+  "description": "reco common bin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reco",
+    "bin",
+    "utils"
+  ],
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "author": "allanyu <allanyu@tencent.com>",
+  "license": "MIT",
+  "dependencies": {
+    "change-case": "^3.0.1",
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "dargs": "^5.1.0",
+    "debug": "^3.0.1",
+    "delegates": "^1.0.0",
+    "is-type-of": "^1.0.0",
+    "node-homedir": "^1.0.0",
+    "semver": "^5.4.1",
+    "urllib": "^2.25.0",
+    "yargs": "^8.0.1",
+    "yargs-parser": "^8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-bugly": "^14.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.code.oa.com/WSRD-Tech-Center-Lib/reco-bin.git"
+  }
+}
