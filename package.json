@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco-bin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "reco common bin ",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,8 @@
   },
   "devDependencies": {
     "eslint": "^3.19.0",
-    "eslint-config-bugly": "^14.1.6"
+    "eslint-config-bugly": "^14.1.6",
+    "webpack-promise": "^1.2.0"
   },
   "repository": {
     "type": "git",
