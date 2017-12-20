@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco-bin",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "reco common bin ",
   "main": "index.js",
   "scripts": {
