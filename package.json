@@ -1,6 +1,6 @@
 {
   "name": "@tencent/reco-bin",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "reco common bin ",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "debug": "^3.0.1",
     "delegates": "^1.0.0",
     "is-type-of": "^1.2.0",
+    "mz-modules": "^2.0.0",
     "node-homedir": "^1.0.0",
     "semver": "^5.4.1",
     "urllib": "^2.25.0",
